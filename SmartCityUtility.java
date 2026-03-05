@@ -5,7 +5,7 @@ class SmartCityUtility
 	{
 		Scanner sc = new Scanner(System.in);
 		Scanner num = new Scanner(System.in);
-		System.out.println("SMART CITY UTILITY MENU");
+		System.out.println("--------SMART CITY UTILITY MENU--------");
         System.out.println("1.Electricity Bill");
 		System.out.println("2.Water Bill");	
 		System.out.println("3.Internet Plan");
